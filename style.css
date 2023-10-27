@@ -1,0 +1,16 @@
+body {
+    background-color: blanchedalmond;
+    margin: 20px;
+}
+h1 {
+    color:brown;
+    margin: 20px;
+}
+div {
+    width: 300px;
+    border: 15px solid green;
+    background-color: honeydew;
+    padding: 50px;
+    margin: 20px;
+    
+}
